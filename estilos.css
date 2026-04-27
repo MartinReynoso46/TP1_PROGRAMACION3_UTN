@@ -5,34 +5,39 @@ body {
 h1 {
     color: crimson;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
 }
 
 h2 {
     color: orangered;
     text-decoration: underline;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
 }
 
 h3 {
     color: lightseagreen;
     text-decoration: underline;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 20px;
 }
 
 p {
     color: saddlebrown;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 ul {
     color: maroon;
     text-decoration: solid;
+    font-size: 20px;
 }
 
 ol {
     color: blueviolet;
     text-decoration: double;
+    font-size: 20px;
 }
 
 a {
